@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Cinta Al-Qur'an dan Hadis",
+  "description": "Game edukatif berbasis web untuk mata pelajaran Al-Qur'an Hadis kelas IV MI/SD Fase B dengan integrasi Kurikulum Cinta",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
